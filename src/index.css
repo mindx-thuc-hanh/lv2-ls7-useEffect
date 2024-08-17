@@ -1,0 +1,15 @@
+.skelenton-rec{
+    width:100%;
+    height: 15px;
+    background-color: #cccccc;
+}
+.flex{
+    display: flex;
+    
+}
+.flex{
+    flex-direction: column;
+}
+.gap-1{
+    gap:4px;
+}
